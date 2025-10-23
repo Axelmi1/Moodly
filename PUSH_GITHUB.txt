@@ -1,0 +1,61 @@
+═══════════════════════════════════════════════════════════════
+🚀 MOODLY - POUSSER SUR GITHUB (2 ÉTAPES SEULEMENT)
+═══════════════════════════════════════════════════════════════
+
+✅ DÉJÀ FAIT :
+- Git initialisé
+- 64 fichiers committés (frontend + backend complets)
+- LICENSE MIT ajoutée
+- Documentation créée
+
+═══════════════════════════════════════════════════════════════
+ÉTAPE 1 : CRÉER LE REPO SUR GITHUB
+═══════════════════════════════════════════════════════════════
+
+1. Ouvrez : https://github.com/new
+
+2. Remplissez :
+   - Repository name: moodly
+   - Description: Application de suivi du moral - VueJS + Strapi + Capacitor
+   - Public ou Private (votre choix)
+   - ⚠️ NE COCHEZ RIEN (pas de README, etc.)
+
+3. Cliquez "Create repository"
+
+4. Copiez l'URL (ex: https://github.com/axelmisson/moodly.git)
+
+═══════════════════════════════════════════════════════════════
+ÉTAPE 2 : EXÉCUTEZ CES 2 COMMANDES
+═══════════════════════════════════════════════════════════════
+
+git remote add origin https://github.com/VOTRE-USERNAME/moodly.git
+git push -u origin main
+
+(Remplacez VOTRE-USERNAME par votre username GitHub)
+
+═══════════════════════════════════════════════════════════════
+EXEMPLE SI VOTRE USERNAME EST "axelmisson" :
+═══════════════════════════════════════════════════════════════
+
+git remote add origin https://github.com/axelmisson/moodly.git
+git push -u origin main
+
+═══════════════════════════════════════════════════════════════
+✨ C'EST TOUT ! ✨
+═══════════════════════════════════════════════════════════════
+
+Après ça :
+1. Retournez sur GitHub
+2. Rafraîchissez la page
+3. Admirez votre projet en ligne ! 🎉
+
+Votre repo contiendra :
+- 📁 backend/ (Strapi complet)
+- 📁 frontend/ (VueJS + iOS + Android)
+- 📄 README.md (documentation)
+- 📄 SETUP.md (guide de config)
+- 📄 GAMMA_PROMPT.md (présentation)
+- 📄 LICENSE (MIT)
+
+═══════════════════════════════════════════════════════════════
+
